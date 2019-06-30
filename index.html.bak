@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Hasth</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href="estilo.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lobster&amp;display=swap"
+      rel="stylesheet">
+    <link href="home.html">
+  </head>
+  <body>
+    <div class="title">
+      <h1 style="text-align: center;">Hasth</h1>
+      <div style="text-align: center;"><br>
+        Bienvenido al portafolio de Hast-Hasent</div>
+    </div>
+    <style type="text/css">
+    body {
+        background-image: url(5118.png);
+        background-repeat: repeat-y;
+    }
+    #wrapper {
+        background:url('5118.png');
+        width:859px;height:231px;
+    }
+          
+</style> <div class="contenedor">
+      <section>
+        <h1><br>
+        </h1>
+        <section> </section>
+      </section>
+      <section class="bg-dark btn-container">
+        <div class="btn-item"> <a href="#" class="btn-ghost round">explorar</a>
+        </div>
+      </section>
+      <section>
+        <div class="box">
+          <h1>
+            <p> Bievenido a Hasth, usuario. Te presentamos nuestro sitio web.
+              Aquì podes ver nuestro portafolio completo, y claro, nuestro
+              productos. Tenemos como ùnico objetivo, expandir a la mayor
+              cantidad de personas nuestros trabajos y articulos de calidad, con
+              el fin de entretener y, conseguir frutos por ello. Gracias por el
+              tiempo. </p>
+          </h1>
+        </div>
+      </section>
+      <nav id="navbar"> <a href="#" class="brand">Hasth</a>
+        <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="#">Articulos</a></li>
+          <li><a href="#">Portafolio</a></li>
+          <li><a href="#">Informacion</a></li>
+          <li><a href="#">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>
